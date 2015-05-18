@@ -1,7 +1,7 @@
 # phpstorm-symfony2-template
 Live template for Symfony 2 on Phpstorm
 
-(Readme WIP)
+Major snippet are copied from [https://github.com/raulfraile/sublime-symfony2](https://github.com/raulfraile/sublime-symfony2) for sublime text.
 
 ## Installation ##
 
