@@ -16,6 +16,10 @@ Linux :
 ~/.WebIde80/config/templates/
 ```
 
+Windows :
+```
+C:\Users\<username>\.WebIde80\config\templates
+```
 
 
 ## Shortcuts from raulfraile repo ##
